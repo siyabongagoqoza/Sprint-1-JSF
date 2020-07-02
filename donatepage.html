@@ -1,0 +1,32 @@
+<html>
+   <header>
+       <link rel="stylesheet" href="css/donateform.css">
+   </header>  
+   <title>Donate To Us</title>   
+  <body>
+    <form action="action_page.php">
+        <div class="container">
+          <h1>Donation Form</h1>
+          <p>Please enter your details to conform the donation</p>
+          <hr>
+          
+          <label for="name"><b>Name & Surname</b></label>
+          <input type="text" placeholder="Enter Your Name and Surname" name="name" id="namesurname" required>
+
+          <label for="email"><b>Email</b></label>
+          <input type="text" placeholder="Enter Email" name="email" id="email" required>
+          
+          <label for="psw"><b>Account Number</b></label>
+          <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+      
+          <label for="psw-repeat"><b>CVV</b></label>
+          <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+          <hr>
+      
+          <p>By confirming the donation you agree to our <a href="#">Terms & protocols</a>.</p>
+          <button class="donatebtn" id="confirm">Donate</button>
+        </div>
+      </form>
+      <script src="js/cross-comm.js"></script>
+  </body>
+</html>

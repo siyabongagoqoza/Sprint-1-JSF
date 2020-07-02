@@ -1,0 +1,52 @@
+.yVideo {
+    margin-left: 320px;
+    margin-bottom: 27px;
+}
+.donation {
+    background-color: #173f5f;
+    padding-top: 54px;
+    padding-bottom: 164px;
+    margin-bottom: 100px;
+}
+.hdonate {
+    color: white;
+    margin-left: 481px;
+    font-size: 63px;
+    font-family: cursive;
+}
+.hquote {
+    color: white;
+    margin-left: 418px;
+    font-size: 27px;
+    margin-bottom: 56px;
+}
+
+.lblthanks {
+    font-size: 37px;
+    margin-left: 80px;
+    font-family: cursive;
+    color: cyan;
+}
+.btnDonate {
+
+    margin-left: 500px;
+    width: 227px;
+    height: 84px;
+    color: blue;
+    font-size: 25px;
+    font-family: cursive;
+    margin-top: 24px;
+}
+
+.clickjacking {
+    position: relative;
+}
+.cj1 {
+   position: absolute;
+   margin-left: 21px;
+   font-size: 77px;
+   opacity: 0;
+}
+.cj2 {
+   z-index: 9; 
+}
