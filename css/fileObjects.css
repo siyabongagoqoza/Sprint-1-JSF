@@ -1,0 +1,49 @@
+.fileObjectImg {
+    margin-top: 200px;
+    margin-bottom: 77px;
+    margin-left: 42px;
+    background-color: lightskyblue;
+}
+.uploadtext {
+    color: darkblue;
+    padding-top: 49px;
+}
+.letter {
+display: flex;
+flex-direction: column;
+color: black;
+}
+  
+.textar {
+    width: 800px;
+    height: 750px;
+    margin-top: 38px;
+
+  }
+.alltext {
+    background-color: lightskyblue;
+}
+.restr {
+    color: darkblue;
+    margin-bottom: 27px;
+}
+.restr2 {
+    color: darkblue;
+    margin-bottom: 27px;
+}
+.nofield {
+    margin-bottom: 10px;
+    width: 151px;
+
+}
+
+.bsend {
+    margin-bottom: 10px;
+    width: 93px;
+}
+
+.numbers {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
